@@ -20,3 +20,4 @@ jobs:
           context: .
           push: true
           tags: your-docker-username/html-app:latest
+
